@@ -1,14 +1,12 @@
 # ruc-validate
 
-Utility to validate RUC number
+Utilidad para obtener validez de número de RUC
 
 ```
 npm install asyncforeach_pe
 ```
 
-[🇵🇪 Spanish - Español](https://github.com/confluxpe/ruc-validate/blob/main/README.ES.md)
-
-## Usage
+## Uso
 
 ```
 var verifyRuc = require('ruc-validate');
