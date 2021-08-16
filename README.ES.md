@@ -3,7 +3,7 @@
 Utilidad para obtener validez de número de RUC
 
 ```
-npm install asyncforeach_pe
+npm install ruc-validate
 ```
 
 ## Uso

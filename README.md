@@ -3,7 +3,7 @@
 Utility to validate RUC number
 
 ```
-npm install asyncforeach_pe
+npm install ruc-validate
 ```
 
 [🇵🇪 Spanish - Español](https://github.com/confluxpe/ruc-validate/blob/main/README.ES.md)
